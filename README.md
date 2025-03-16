@@ -1,8 +1,11 @@
 Create a script in Python to convert currencies using  an ExchangeRate-API: (https://api.exchangerate-api.com/v4/latest/{base}).
 
-- This API (Application Programming Interface) provides up-to-date exchange rates in JSON format.  
+Main Functionalities:
+
+- This API (Application Programming Interface) provides up-to-date exchange rates in JSON format.
+- API ==> Interface that allows one Software to request data or services from another without needing to know its internal workings.    
 - The JSON format is used to structure data in text form and enables the exchange of information between applications in a simple, lightweight, and rapid manner.  
-- API ==> Interface that allows one Software to request data or services from another without needing to know its internal workings.  
+
 
 '''
 The program must convert the value of one currency to another using the current exchange rate.

@@ -9,11 +9,11 @@ to convert it to in order to know how much they will have.
 For example, an amount of money in EUROS to US dollars, the program will take the value entered 
 and convert it using the current exchange rate between both currencies.
 
-- The API (Application Programming Interface) provides up-to-date exchange rates in JSON format.
+- The API (*) provides up-to-date exchange rates in JSON format.
   
 - The JSON format is used to structure data in text form and enables the exchange of information between applications in a simple, lightweight, and rapid manner.
    
-- (API ==> Interface that allows one Software to request data or services from another without needing to know its internal workings).    
+(*) API ==> Application Programming Interface that allows one Software to request data or services from another without needing to know its internal workings.    
 
 
 

@@ -1,3 +1,4 @@
+# Currency Converter
 Create a script in Python to convert currencies using  an ExchangeRate-API: (https://api.exchangerate-api.com/v4/latest/{base}).
 
 Main Functionalities:
